@@ -1,5 +1,5 @@
 - 👋 Hi, there my name on this platform is @Abby-Codee
-- 👀 I’m interested in learning all about coding
+- 👀 I’m interested in learning all about how to code and speak in Tech
 - 🌱 I’m currently learning Javascript, HTML, CSS, Linux
 - 💞️ I’m looking to collaborate on new ways of learning
 - 📫 How to reach me ?
